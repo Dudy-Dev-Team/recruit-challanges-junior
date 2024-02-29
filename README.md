@@ -1,6 +1,6 @@
 We are hiring! 🚀 If you are in our hiring process or considering Harbiz a company in which you would like to work, solve the following challenges and let us know! 😎
 
-# Test Full-Stack DudyFit
+# Test Full-Stack Harbiz
 
 Se trata de resolver un problema de asignación entre entrenadores y clientes, en la cual se desea asignar al entrenador un conjunto de clientes en base a las preferencias. 
 La solución debe de realizarse en 
